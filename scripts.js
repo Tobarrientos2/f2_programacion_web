@@ -139,30 +139,3 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-
-
-niguno de los campos del formulario debe estar vacio 
-
-
-
-el correo electronico debe seguir un formato de correo electroniico x
-
-
-las 2 constraseñas debe ser iguales 
-
-debe contener al menos 1 numero 
-al menos 1 letra mayuscula 
-contraseña debe tener de 6 a 18 caracteres
-
-La persona no puede tener menos de 13 años 
-
-
-
-direccion de despacho es opcional
-
-
-
-
-
-
-2 botones, 1 para enviar y otro para borrar todo 
